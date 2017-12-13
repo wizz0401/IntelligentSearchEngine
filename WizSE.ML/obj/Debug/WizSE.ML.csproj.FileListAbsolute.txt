@@ -1,0 +1,11 @@
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.ML\bin\Debug\WizSE.ML.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.ML\bin\Debug\WizSE.ML.pdb
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.ML\obj\Debug\WizSE.ML.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.ML\obj\Debug\WizSE.ML.pdb
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.ML\bin\Debug\WizSE.ML.dll.config
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.ML\bin\Debug\EntityFramework.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.ML\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.ML\bin\Debug\System.Data.SQLite.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.ML\bin\Debug\EntityFramework.xml
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.ML\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.ML\bin\Debug\System.Data.SQLite.xml

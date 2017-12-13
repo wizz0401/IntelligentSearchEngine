@@ -1,0 +1,12 @@
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\bin\Debug\WizSE.Common.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\bin\Debug\WizSE.Common.pdb
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\obj\Debug\WizSE.Common.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\obj\Debug\WizSE.Common.pdb
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\bin\Debug\WizSE.Common.dll.config
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\bin\Debug\EntityFramework.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\bin\Debug\System.Data.SQLite.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\bin\Debug\EntityFramework.xml
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\bin\Debug\System.Data.SQLite.xml
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.Common\obj\Debug\WizSE.Common.csprojResolveAssemblyReference.cache

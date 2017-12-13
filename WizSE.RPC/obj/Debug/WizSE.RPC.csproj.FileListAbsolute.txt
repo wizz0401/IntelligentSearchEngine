@@ -1,0 +1,14 @@
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\bin\Debug\WizSE.RPC.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\bin\Debug\WizSE.RPC.pdb
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\obj\Debug\WizSE.RPC.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\obj\Debug\WizSE.RPC.pdb
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\bin\Debug\WizSE.RPC.dll.config
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\bin\Debug\EntityFramework.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\bin\Debug\System.Data.SQLite.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\bin\Debug\WizSE.Common.dll
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\bin\Debug\WizSE.Common.pdb
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\bin\Debug\EntityFramework.xml
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\bin\Debug\System.Data.SQLite.xml
+D:\Projects\SearchEnginee\WizSE.ML\WizSE.RPC\obj\Debug\WizSE.RPC.csprojResolveAssemblyReference.cache

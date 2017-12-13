@@ -1,0 +1,14 @@
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\obj\Debug\Wiz.Common.UnitTester.csprojResolveAssemblyReference.cache
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\bin\Debug\Wiz.Common.UnitTester.dll
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\bin\Debug\Wiz.Common.UnitTester.pdb
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\bin\Debug\WizSE.Common.dll
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\bin\Debug\WizSE.Common.pdb
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\obj\Debug\Wiz.Common.UnitTester.dll
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\obj\Debug\Wiz.Common.UnitTester.pdb
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\bin\Debug\Wiz.Common.UnitTester.dll.config
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\bin\Debug\EntityFramework.dll
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\bin\Debug\System.Data.SQLite.dll
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\bin\Debug\EntityFramework.xml
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SearchEnginee\WizSE.ML\Wiz.Common.UnitTester\bin\Debug\System.Data.SQLite.xml
